@@ -1,0 +1,4 @@
+[package]
+name = "trucksay"
+version = "0.1.0"
+authors = ["Brendan Perrine <walterorlin@gmail.com>"]
